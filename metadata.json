@@ -1,0 +1,5 @@
+{
+  "name": "GL STORE – Loja segura de jogos online",
+  "description": "GL STORE é uma loja confiável para baixar e comprar jogos para PS3, PS4, PS5, PC e Android. Arquivos seguros e suporte 24/7.",
+  "requestFramePermissions": ["camera"]
+}
